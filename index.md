@@ -11,7 +11,7 @@ Bangkok Metropolitan Area
 
 ## 📌 Contact
 
-- 📞 7292079971  
+- 📞 +66 7292079971  
 - ✉️ naveen1223@outlook.com  
 
 ---
@@ -59,19 +59,13 @@ Experienced in building scalable enterprise integrations and multi-vendor market
 
 <p align="left">
   <a href="https://www.linkedin.com/in/naveenyellamaddi">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/YOURUSERNAME">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="28"/>
+  <a href="https://twitter.com/nyellamaddi">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="28" alt="Twitter"/>
   </a>
-  <a href="https://facebook.com/YOURUSERNAME">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="28"/>
-  </a>
-  <a href="https://x.com/YOURUSERNAME">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="28"/>
-  </a>
-  <a href="https://github.com/YOURUSERNAME">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="28"/>
+  <a href="https://github.com/ncyhere">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="28" alt="GitHub"/>
   </a>
 </p>
 
